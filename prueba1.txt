@@ -1,0 +1,2 @@
+Resultado QuickSort:
+[1, 5, 8, 12, 17, 23, 32, 90]
